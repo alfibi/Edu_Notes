@@ -38,10 +38,6 @@ This repository is a prototype and may not be fully production-ready. To get sta
 
 Contributions are welcome! Please open an issue or submit a pull request for suggestions and improvements.
 
-## License
-
-This project currently does not have a license. Please contact the repository owner for usage permissions.
-
 ## Author
 
 - [alfibi](https://github.com/alfibi)
