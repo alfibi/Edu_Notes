@@ -21,14 +21,6 @@ This repository is a prototype and may not be fully production-ready. To get sta
    ```bash
    git clone https://github.com/alfibi/EduNotes.git
    ```
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-3. **Run the application:**
-   ```bash
-   npm start
-   ```
 
 ## Technologies Used
 
